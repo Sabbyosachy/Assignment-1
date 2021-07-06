@@ -5,6 +5,12 @@ body{
 span{
   color: rgba(255, 123, 0, 0.986);
 }
+.image{
+width: 160px;
+float: left;
+margin: 10px;
+
+}
 section.One{
   display: flex;
 }
